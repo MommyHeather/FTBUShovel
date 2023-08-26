@@ -32,4 +32,4 @@ src/scripts/ClaimData
 src/scripts/userdata
 src/scripts/ClaimedChunks.json
 src/scripts/LMPlayers.dat
-scr/scripts/LMPlayers.txt
+src/scripts/LMPlayers.txt
